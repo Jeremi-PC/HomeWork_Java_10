@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"bicycle","l":"Bicycle"},{"p":"bicycle","l":"Damageble"},{"p":"bicycle","l":"Bicycle.Frame"},{"p":"bicycle","l":"Bicycle.Gears"},{"p":"bicycle","l":"Bicycle.Handlebar"},{"p":"bicycle","l":"Main"},{"p":"bicycle","l":"Bicycle.Saddle"},{"p":"bicycle","l":"Bicycle.Wheel"}];updateSearchResults();
